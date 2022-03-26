@@ -1,3 +1,4 @@
 My name is Adorn Choga.
 I'm 20 years old now.
 I live in Harare, the capital of Zimbabwe.
+I'm a learning Front-end Software Developer and I'm currently learning the back-end.
